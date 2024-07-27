@@ -1,0 +1,24 @@
+/* oferta de productos */
+/* slide */
+/* .slide{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid black;
+
+}
+.slide img{
+    height: auto;
+    max-width: 100;
+} */
+
+#logo{
+    display: flex;
+    align-items: center;
+
+}
+#promociones>p{
+    color: rgb(216, 216, 55);
+    font-size: 24px;
+}
